@@ -1,2 +1,8 @@
-edu\escuelaing\patrones\APIRest.class
 edu\escuelaing\patrones\PatronApplication.class
+edu\escuelaing\patrones\entities\DataService.class
+edu\escuelaing\patrones\entities\StudentService.class
+edu\escuelaing\patrones\DataRepoImpl.class
+edu\escuelaing\patrones\APIRest.class
+edu\escuelaing\patrones\entities\Student.class
+edu\escuelaing\patrones\DataRepo.class
+edu\escuelaing\patrones\DataInfo.class
